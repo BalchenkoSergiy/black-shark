@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 let something = 0801
-=======
 let something-else = 0801
->>>>>>> falcon/0801
